@@ -1,4 +1,2 @@
 # Code in Python
-n=int(input('enter value:'))
-for i in range(n):
-    print(i)
+Def:a number which is divisible by 2 is called Even otherwise Odd.
