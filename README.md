@@ -1,2 +1,2 @@
-# PRIME_NMBER_CODE
-Prime number code in Python
+# Code in Python
+
